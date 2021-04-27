@@ -2,8 +2,8 @@
 Simulate the heat equation using the finite difference method.
 
 # Examples
-[](https://github.com/AlexGisi/heat-equation/blob/main/gen/heat_sim.gif)
-[](https://github.com/AlexGisi/heat-equation/blob/main/gen/heat_sim_500_1.gif)
+![](https://github.com/AlexGisi/heat-equation/blob/main/gen/heat_sim.gif)
+![](https://github.com/AlexGisi/heat-equation/blob/main/gen/heat_sim_500_1.gif)
 
 # References
 - https://levelup.gitconnected.com/solving-2d-heat-equation-numerically-using-python-3334004aa01a
